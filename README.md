@@ -15,4 +15,4 @@ Utilized Node.js and Express.js for efficient backend operations, ensuring seaml
 
 Managed application data with MongoDB, ensuring high performance and scalability of the database.
 
-DEMP :- https://drive.google.com/file/d/1ZfXMA85MHUKbfQ9DFvXQGUAtxmAxw6sP/view?usp=sharing
+DEMO :- https://drive.google.com/file/d/1ZfXMA85MHUKbfQ9DFvXQGUAtxmAxw6sP/view?usp=sharing
